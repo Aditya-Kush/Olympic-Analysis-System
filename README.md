@@ -41,9 +41,9 @@
 ## 📁 Project Structure
 
 ###OAS
-- app.py # Main Streamlit app
-- helper.py # Core logic functions
-- preprocessor.py # Data cleaning and preprocessing
-- athlete_events.csv # Main dataset
-- noc_regions.csv # Country region mapping
-- README.md # Project documentation
+1. app.py - Main Streamlit app
+2. helper.py - Core logic functions
+3. preprocessor.py - Data cleaning and preprocessing
+4. athlete_events.csv - Main dataset
+5. noc_regions.csv - Country region mapping
+6. README.md  Project documentation
